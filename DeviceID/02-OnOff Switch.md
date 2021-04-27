@@ -6,27 +6,31 @@
 
 ## 2、Suported Cluster
 <table>
-    <tr>
+   <tr align="center">
         <td>Server Side</td>
         <td>Client Side</td>
    </tr>
-    <tr>
+   <tr align="center">
         <td colspan="2">Mandatory</td>
-    </tr>
-   <tr>
+   </tr>
+   <tr align="center">
     <td></td>
     <td>On/Off(subject to binding)</td>
-   <tr>
+   </tr>
+   <tr align="center">
     <td></td>
     <td>Identify</td>
    </tr>
-    <tr>
+   <tr align="center">
         <td colspan="2">Optional</td>
-    </tr>
-   <td>On/Off Switch Configuration</td>
-   <td>Scenes </td>
    </tr>
-   <td></td>
-   <td>Groups</td>
+   <tr align="center">
+   		<td>On/Off Switch Configuration</td>
+   		<td>Scenes </td>
+   </tr>
+   <tr align="center">
+   		<td></td>
+   		<td>Groups</td>
+   </tr>
 </table>
 

@@ -1,12 +1,11 @@
-# MQTT协议目录
+# Zigbee Device ID Search目录
 
-- [目录](00-Contents.md)
 - [第一章 - DeviceID快速查找](01-DeviceIDQuickSearch.md)
-- [第二章 – MQTT控制报文格式](02-ControlPacketFormat.md)
-- [第三章 – MQTT控制报文](03-ControlPackets.md)
-- [第四章 – 操作行为](04-OperationalBehavior.md)
-- [第五章 – 安全](05-Security.md)
-- [第六章 – 使用WebSocket](06-WebSocket.md)
-- [第七章 – 一致性目标](07-Conformance.md)
-- [附录B - 强制性规范声明](08-AppendixB.md)
+- [第二章 – On/Off Switch](02-OnOff Switch.md)
+- [第三章 – Level Control Switch](03-Level Control Switch.md)
+- [第四章 – On/Off output](04-OnOff output.md)
+- [第五章 – Level Controllable Output](05-LevelControllableOutput.md)
+- [第六章 – Scene Selector](06-SceneSelector.md)
+- [第七章 – Configuration Tool](07-ConfigurationTool.md)
+- 
 
