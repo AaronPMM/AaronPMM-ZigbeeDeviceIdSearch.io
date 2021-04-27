@@ -4,7 +4,7 @@
 
 ​	配置工具设备，能够用于配置其他新安装的设备。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>

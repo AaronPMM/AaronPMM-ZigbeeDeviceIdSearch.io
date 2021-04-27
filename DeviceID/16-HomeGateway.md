@@ -5,7 +5,7 @@
 The Home Gateway/Energy Management System device performs home control and monitoring activities. It is executed on a Home gateway that is able to collect energy  data,  from  the  Meter  interface  and  from  the  user’s  appliances,  and  to 
 publish them in the home network through broadband LAN technologies (e.g., WiFi and/or Ethernet) and the wide area network (WAN).
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -66,4 +66,3 @@ publish them in the home network through broadband LAN technologies (e.g., WiFi 
        <td>Price</td>
    </tr>  
 </table>
-

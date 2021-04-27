@@ -4,7 +4,7 @@
 
 ​	简单传感器，仅仅支持二进制输入。如：window magnet contacts 和其简单的On/Off 设备，只能上报其状态。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -25,4 +25,3 @@
        <td>None</td>
    </tr>
 </table>
-

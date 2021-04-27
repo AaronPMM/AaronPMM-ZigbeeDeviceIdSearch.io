@@ -4,7 +4,7 @@
 
 ​	On/Off 输出设备，可以控制开和关。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>

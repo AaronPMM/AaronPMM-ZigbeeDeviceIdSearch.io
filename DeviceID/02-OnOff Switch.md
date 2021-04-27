@@ -4,7 +4,7 @@
 
 ​	能够向设备发送 On、Off、Toggle 指令，并控制其打开或关闭。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
         <td>Server Side</td>
@@ -33,4 +33,3 @@
    		<td>Groups</td>
    </tr>
 </table>
-

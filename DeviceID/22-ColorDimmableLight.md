@@ -1,8 +1,8 @@
-# 第十一章 Mains Power Outlet
+# 第二十二章 Color Dimmable Light
 
 ## 1、描述
 
-​	主电源插座设备能够控制开和关。该设备控制电源插座。
+​	  彩色可调光设备可以打开和关闭，并且可以控制其亮度，色相和饱和度级别。
 
 ## 2、Supported Cluster
 <table>
@@ -14,22 +14,28 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
+    <td>Identify</td>
     <td></td>
-   </tr> 
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr> 
+   </tr>
    <tr align="center">
     <td>Groups</td>
     <td></td>
-   </tr> 
-   <tr align="center">
-   	<td colspan="2">Optional</td>
    </tr>
    <tr align="center">
-    <td>None</td>
-    <td>None</td>
-   </tr> 
+    <td>Scenes</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>On/Off</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Level control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Color control</td>
+    <td></td>
+   </tr>
 </table>
+

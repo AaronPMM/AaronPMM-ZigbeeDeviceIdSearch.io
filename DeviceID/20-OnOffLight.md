@@ -1,8 +1,8 @@
-# 第三章 Level Control Switch
+# 第二十章 On/Off Light
 
 ## 1、描述
 
-​	能够向设备发送 On、Off、Toggle 指令以及控制其等级，如 灯的亮度。
+​	  控制开和关的灯
 
 ## 2、Supported Cluster
 <table>
@@ -14,30 +14,26 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td></td>
-    <td>On/Off(subject to binding)</td>
-   </tr>
-   <tr align="center">
-    <td></td>
     <td>Identify</td>
+    <td></td>
    </tr>
    <tr align="center">
+    <td>Groups</td>
     <td></td>
-    <td>On/off(subject to binding)</td>
    </tr>
    <tr align="center">
+    <td>Scenes</td>
     <td></td>
-    <td>Level Control(subject to binding)</td>
+   </tr>
+   <tr align="center">
+    <td>On/Off</td>
+    <td></td>
    </tr>
    <tr align="center">
    	<td colspan="2">Optional</td>
    </tr>
    <tr align="center"> 
-       <td>On/Off Switch Configuration</td>
-       <td>Scenes </td>
-   </tr>
-   <tr align="center"> 
        <td></td>
-       <td>Groups</td>
-   </tr>  
+       <td>Occupancy Sensing</td>
+   </tr>
 </table>

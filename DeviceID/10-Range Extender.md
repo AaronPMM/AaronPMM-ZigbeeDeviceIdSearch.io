@@ -4,7 +4,7 @@
 
 ​	Range Extender是一个简单的设备，可以充当其他设备的路由器。 Range Extender设备不应是ZigBee终端设备。 实现Range Extender设备的产品不应实现此配置文件中定义的任何其他设备。 仅当产品不打算用于任何其他应用程序，或者实施了本配置文件未解决的专用应用程序时，才应使用该设备。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -57,4 +57,3 @@
        <td>Manufacturer-specific(see sub-clause 7.1.6 for details)</td>
    </tr>
 </table>
-

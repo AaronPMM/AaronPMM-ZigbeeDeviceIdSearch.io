@@ -1,8 +1,8 @@
-# 第五章 Level Controllable Output
+# 第三十六章 On/Off Sensor
 
 ## 1、描述
 
-​	电平可控输出设备，可以控制 On 和 Off, 可以调节输出等级，如：调光开关等。
+​	  On/Off 传感器。
 
 ## 2、Supported Cluster
 <table>
@@ -14,26 +14,32 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
     <td></td>
+    <td>Identify</td>
    </tr>
    <tr align="center">
-    <td>Level Control</td>
     <td></td>
-   </tr>
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr>
-   <tr align="center">
     <td>Groups</td>
-    <td></td>
    </tr>
    <tr align="center">
-   	<td colspan="2">Optional</td>
+    <td></td>
+    <td>Scenes</td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+    <td></td>
+    <td>On/Off</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Level control</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Color control</td>
+   </tr>
+   <tr align="center">
+    <td>ZLL commissioning: utility</td>
+    <td>ZLL commissioning: utility</td>
    </tr>
 </table>
+

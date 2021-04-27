@@ -4,7 +4,7 @@
 
 ​	门锁控制器，发出 Door Lock cluster commands。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -37,4 +37,3 @@
        <td>None</td>
    </tr>
 </table>
-

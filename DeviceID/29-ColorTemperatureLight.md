@@ -1,8 +1,8 @@
-# 第十二章 Door Lock
+# 第二十九章 Color Temperature Light
 
 ## 1、描述
 
-​	门锁，能够接收 Door Lock cluster commands。
+​	  	  增强型彩灯，控制设备开和关，亮度，色彩。
 
 ## 2、Supported Cluster
 <table>
@@ -14,7 +14,11 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>Door Lock</td>
+    <td>Identify</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Groups</td>
     <td></td>
    </tr>
    <tr align="center">
@@ -22,7 +26,15 @@
     <td></td>
    </tr>
    <tr align="center">
-    <td>Groups</td>
+    <td>On/Off</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Level control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Color control</td>
     <td></td>
    </tr>
 </table>

@@ -4,7 +4,7 @@
 
 ​	情景选择设备，能够设置和选择其他设备的情景。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>

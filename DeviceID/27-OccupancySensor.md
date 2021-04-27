@@ -1,8 +1,8 @@
-# 第十二章 Door Lock
+# 第二十七章 Occupancy Sensor
 
 ## 1、描述
 
-​	门锁，能够接收 Door Lock cluster commands。
+​	  占用传感器设备报告区域的占用状态。
 
 ## 2、Supported Cluster
 <table>
@@ -14,15 +14,15 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>Door Lock</td>
-    <td></td>
+    <td>Occupancy Sensing</td>
+    <td>Identify</td>
    </tr>
    <tr align="center">
-    <td>Scenes</td>
-    <td></td>
+   	<td colspan="2">Optional</td>
    </tr>
-   <tr align="center">
-    <td>Groups</td>
-    <td></td>
+   <tr align="center"> 
+       <td></td>
+       <td>Groups</td>
    </tr>
 </table>
+

@@ -1,8 +1,8 @@
-# 第十一章 Mains Power Outlet
+# 第三十五章 Control Bridge
 
 ## 1、描述
 
-​	主电源插座设备能够控制开和关。该设备控制电源插座。
+​	  控制桥。
 
 ## 2、Supported Cluster
 <table>
@@ -14,22 +14,32 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
     <td></td>
-   </tr> 
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr> 
-   <tr align="center">
-    <td>Groups</td>
-    <td></td>
-   </tr> 
-   <tr align="center">
-   	<td colspan="2">Optional</td>
+    <td>Identify</td>
    </tr>
    <tr align="center">
-    <td>None</td>
-    <td>None</td>
-   </tr> 
+    <td></td>
+    <td>Groups</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Scenes</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>On/Off</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Level control</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Color control</td>
+   </tr>
+   <tr align="center">
+    <td>ZLL commissioning: utility</td>
+    <td>ZLL commissioning: utility</td>
+   </tr>
 </table>
+

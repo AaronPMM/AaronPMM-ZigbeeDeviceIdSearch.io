@@ -4,7 +4,7 @@
 
 ​	远程控制设备，能够控制和监控其他设备。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -88,4 +88,3 @@
        <td>Thermostat</td>
    </tr>
 </table>
-

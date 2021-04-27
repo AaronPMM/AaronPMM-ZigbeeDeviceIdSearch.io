@@ -4,7 +4,7 @@
 
 ​	组合接口设备，能够控制和监视其他设备，通常是由电源供电的设备,如：个人计算机。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -89,4 +89,3 @@
        <td>On/Off</td>
    </tr>
 </table>
-

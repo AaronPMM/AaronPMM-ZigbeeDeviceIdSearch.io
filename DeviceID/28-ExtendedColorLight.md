@@ -1,8 +1,8 @@
-# 第十一章 Mains Power Outlet
+# 第二十八章 Extended Color Light
 
 ## 1、描述
 
-​	主电源插座设备能够控制开和关。该设备控制电源插座。
+​	  增强型彩灯，控制设备开和关，亮度，色彩，色温。
 
 ## 2、Supported Cluster
 <table>
@@ -14,22 +14,27 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
+    <td>Identify</td>
     <td></td>
-   </tr> 
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr> 
+   </tr>
    <tr align="center">
     <td>Groups</td>
     <td></td>
-   </tr> 
-   <tr align="center">
-   	<td colspan="2">Optional</td>
    </tr>
    <tr align="center">
-    <td>None</td>
-    <td>None</td>
-   </tr> 
+    <td>Scenes</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>On/Off</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Level control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Color control</td>
+    <td></td>
+   </tr>
 </table>

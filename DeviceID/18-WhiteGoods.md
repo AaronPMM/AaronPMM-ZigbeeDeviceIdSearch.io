@@ -4,7 +4,7 @@
 
 ​	白色家电设备可以积极参与家庭控制和监视活动。此外，白色家电可以提供与设备使用情况有关的数据，并参与家庭能源管理活动。
 
-## 2、Suported Cluster
+## 2、Supported  Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -57,4 +57,3 @@
        <td>Price</td>
    </tr>
 </table>
-

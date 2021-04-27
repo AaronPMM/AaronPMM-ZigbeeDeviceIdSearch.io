@@ -4,7 +4,7 @@
 
 ​	Consumption Awareness Device，能够知道其能耗，具有上报能耗的功能。
 
-## 2、Suported Cluster
+## 2、Supported Cluster
 <table>
    <tr align="center">
    	<td>Server Side</td>
@@ -25,4 +25,3 @@
        <td>None</td>
    </tr>
 </table>
-
