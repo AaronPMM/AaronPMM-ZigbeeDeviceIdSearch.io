@@ -1,8 +1,8 @@
-# 第五章 Level Controllable Output
+# 第四十四章 Pump
 
 ## 1、描述
 
-​	电平可控输出设备，可以控制 On 和 Off, 可以调节输出等级，如：调光开关等。
+​	  泵设备是可能具有可变速度的泵。 它可能具有可选的内置传感器和调节机制。 通常用于抽水。
 
 ## 2、Supported Cluster
 <table>
@@ -14,15 +14,11 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
+    <td>Pump Configuration and Control</td>
+    <td>Identify</td>
+   </tr>
+   <tr align="center">
     <td>On/Off</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Level Control</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Scenes</td>
     <td></td>
    </tr>
    <tr align="center">
@@ -30,10 +26,19 @@
     <td></td>
    </tr>
    <tr align="center">
+    <td>Scenes</td>
+    <td></td>
+   </tr>
+   <tr align="center">
    	<td colspan="2">Optional</td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+    <td>Level control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Alarms</td>
+    <td></td>
    </tr>
 </table>
+

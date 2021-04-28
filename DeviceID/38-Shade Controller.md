@@ -1,8 +1,8 @@
-# 第五章 Level Controllable Output
+# 第三十八章 Shade Controller
 
 ## 1、描述
 
-​	电平可控输出设备，可以控制 On 和 Off, 可以调节输出等级，如：调光开关等。
+​	  遮光控制器设备可以控制阴影级别，并将其置于配置模式，以便用户可以调整其限制。
 
 ## 2、Supported Cluster
 <table>
@@ -14,26 +14,30 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
+    <td></td>
+    <td>Identify</td>
+   </tr>
+   <tr align="center">
+    <td></td>
     <td>On/Off</td>
-    <td></td>
    </tr>
    <tr align="center">
-    <td>Level Control</td>
     <td></td>
+    <td>Level control</td>
    </tr>
    <tr align="center">
-    <td>Scenes</td>
-    <td></td>
+   	<td colspan="2">Option</td>
    </tr>
    <tr align="center">
+    <td></td>
     <td>Groups</td>
-    <td></td>
    </tr>
    <tr align="center">
-   	<td colspan="2">Optional</td>
+    <td></td>
+    <td>Scenes</td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+    <td></td>
+    <td>Shade Configuration</td>
    </tr>
 </table>

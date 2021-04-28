@@ -1,8 +1,8 @@
-# 第五章 Level Controllable Output
+# 第三十七章 Shade
 
 ## 1、描述
 
-​	电平可控输出设备，可以控制 On 和 Off, 可以调节输出等级，如：调光开关等。
+​	  遮光装置提供打开或关闭窗帘的能力，包括设置部分打开或部分关闭状态。 此设备类型包括卷帘，窗帘和仅可倾斜的百叶窗。
 
 ## 2、Supported Cluster
 <table>
@@ -14,15 +14,15 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
+    <td>Shade Configuration</td>
+    <td></td>
+   </tr>
+   <tr align="center">
     <td>On/Off</td>
     <td></td>
    </tr>
    <tr align="center">
-    <td>Level Control</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Scenes</td>
+    <td>Level control</td>
     <td></td>
    </tr>
    <tr align="center">
@@ -30,10 +30,10 @@
     <td></td>
    </tr>
    <tr align="center">
-   	<td colspan="2">Optional</td>
+    <td>Scenes</td>
+    <td></td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+   	<td colspan="2">Option</td>
    </tr>
 </table>

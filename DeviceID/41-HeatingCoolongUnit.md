@@ -1,8 +1,8 @@
-# 第五章 Level Controllable Output
+# 第四十一章 Heating/Collong Unit
 
 ## 1、描述
 
-​	电平可控输出设备，可以控制 On 和 Off, 可以调节输出等级，如：调光开关等。
+​	  加热/冷却单元设备可以加热或冷却房屋中的空间。 提供这两种功能不是强制性的（例如，设备可能只是加热而不能冷却）。 它可能是室内空气处理机。
 
 ## 2、Supported Cluster
 <table>
@@ -18,22 +18,22 @@
     <td></td>
    </tr>
    <tr align="center">
-    <td>Level Control</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Groups</td>
+    <td>Thermostat</td>
     <td></td>
    </tr>
    <tr align="center">
    	<td colspan="2">Optional</td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+    <td>Fan Control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Level control</td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td>Groups</td>
+    <td></td>
    </tr>
 </table>

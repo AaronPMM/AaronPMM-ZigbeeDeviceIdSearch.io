@@ -1,8 +1,8 @@
-# 第四章 On/Off output
+# 第三十九章 Window Covering Device
 
 ## 1、描述
 
-​	On/Off 输出设备，可以控制开和关。
+​	  窗帘装置代表自动窗帘。
 
 ## 2、Supported Cluster
 <table>
@@ -14,18 +14,15 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
-    <td>Scenes</td>
-   </tr>
-   <tr align="center">
-    <td>Group</td>
+    <td>Window Covering</td>
     <td></td>
    </tr>
    <tr align="center">
-   	<td colspan="2">Optional</td>
+    <td>Scenes</td>
+    <td></td>
    </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+   <tr align="center">
+    <td>Groups</td>
+    <td></td>
    </tr>
 </table>

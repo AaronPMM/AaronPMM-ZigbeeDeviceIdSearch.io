@@ -72,6 +72,36 @@
 
 - [第三十六章 – OnOffSensor](36-OnOffSensor.md)
 
+- [第三十七章 – Shade](37-Shade.md)
+
+- [第三十八章 – Shade Controller](38-Shade Controller.md)
+
+- [第三十九章 – Window Covering Device](39-WindowCoveringDevice.md)
+
+- [第四十章 – Window Covering Controller](40-WindowCoveringController.md)
+
+- [第四十一章 – Heating Coolong Unit](41-HeatingCoolongUnit.md)
+
+- [第四十二章 – Thermostat](42-Thermostat.md)
+
+- [第四十三章 – Temperature Sensor](43-TemperatureSensor.md)
+
+- [第四十四章 – Pump](44-Pump.md)
+
+- [第四十五章 – Pump Controller](45-PumpController.md)
+
+- [第四十六章 – Pressure Sensor](46-PressureSensor.md)
+
+- [第四十七章 – Flow Sensor](47-FlowSensor.md)
+
+- [第四十八章 – IAS Control AndIndicating Equipment](48-IASControlAndIndicatingEquipment.md)
+
+- [第四十九章 – IAS Ancillary Control Equiment](49-IASAncillaryControlEquiment.md)
+
+- [第五十章 – IAS Zone](50-IASZone.md)
+
+- [第五十一章 – IAS Warning Device](51-IASWarningDevice.md)
+
   
 
   

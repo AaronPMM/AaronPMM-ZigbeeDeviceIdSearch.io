@@ -1,8 +1,8 @@
-# 第二十二章 Color Dimmable Light
+# 第四十八章 IAS Control and Indicating Equipment (CIE)
 
 ## 1、描述
 
-​	  彩色可调光设备可以打开和关闭，并且可以控制其亮度，色相和饱和度级别。
+IAS CIE设备是入侵者警报系统的中央控制和指示设备。 它接收来自传感器（区域）和控制设备（ACE）的输入，并将输出发送到警告设备（WD）。
 
 ## 2、Supported Cluster
 <table>
@@ -14,28 +14,27 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
+    <td>IAS ACE</td>
+    <td>IAS WD</td>
+   </tr>
+   <tr align="center">
+    <td></td>
     <td>Identify</td>
-    <td></td>
    </tr>
    <tr align="center">
-    <td>Groups</td>
     <td></td>
+    <td>IAS Zone</td>
    </tr>
    <tr align="center">
+   	<td colspan="2">Optional</td>
+   </tr>
+   <tr align="center">
+    <td></td>
     <td>Scenes</td>
-    <td></td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
     <td></td>
-   </tr>
-   <tr align="center">
-    <td>Level control</td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td>Color control</td>
-    <td></td>
+    <td>Group</td>
    </tr>
 </table>
 

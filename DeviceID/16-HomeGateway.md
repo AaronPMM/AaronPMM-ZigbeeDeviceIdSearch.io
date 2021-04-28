@@ -8,8 +8,8 @@ publish them in the home network through broadband LAN technologies (e.g., WiFi 
 ## 2、Supported Cluster
 <table>
    <tr align="center">
-   	<td>Server Side</td>
-    <td>Client Side</td>
+   	<td style="width:50%;">Server Side</td>
+    <td style="width:50%;">Client Side</td>
    </tr>
    <tr align="center">
    	<td colspan="2">Mandatory</td>

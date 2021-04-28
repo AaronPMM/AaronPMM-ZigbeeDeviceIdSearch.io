@@ -1,8 +1,8 @@
-# 第四章 On/Off output
+# 第四十九章  IAS Ancillary Control Equipment (ACE)
 
 ## 1、描述
 
-​	On/Off 输出设备，可以控制开和关。
+​	 	 IAS ACE设备是入侵者警报系统的遥控器。 启用ZigBee的ACE设备可以代表2级用户访问IAS CIE设备并操纵IAS系统。 该设备还可以充当区域传感器。
 
 ## 2、Supported Cluster
 <table>
@@ -14,18 +14,11 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
-    <td>Scenes</td>
+    <td>IAS ACE</td>
+    <td>IAS WD</td>
    </tr>
    <tr align="center">
-    <td>Group</td>
     <td></td>
-   </tr>
-   <tr align="center">
-   	<td colspan="2">Optional</td>
-   </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
-   </tr>
+    <td>Identify</td>
 </table>
+

@@ -1,8 +1,8 @@
-# 第四章 On/Off output
+# 第四十七章 Flow Sensor
 
 ## 1、描述
 
-​	On/Off 输出设备，可以控制开和关。
+​	  流量传感器设备测量并定期报告液体（通常是水）的流量。
 
 ## 2、Supported Cluster
 <table>
@@ -14,18 +14,14 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>On/Off</td>
-    <td>Scenes</td>
+    <td>Flow Measurement</td>
+    <td>Identify</td>
+   </tr>   
+   <tr align="center">
+   	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>Group</td>
     <td></td>
-   </tr>
-   <tr align="center">
-   	<td colspan="2">Optional</td>
-   </tr>
-   <tr align="center"> 
-       <td>None</td>
-       <td>None</td>
+    <td>Groups</td>
    </tr>
 </table>

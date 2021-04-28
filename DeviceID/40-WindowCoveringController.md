@@ -1,8 +1,8 @@
-# 第二章 On/Off Switch
+# 第四十章 Window Covering Controller
 
 ## 1、描述
 
-​	能够向设备发送 On、Off、Toggle 指令，并控制其打开或关闭。
+​	  窗帘控制器是控制自动窗帘的设备。
 
 ## 2、Supported Cluster
 <table>
@@ -11,25 +11,29 @@
     <td style="width:50%;">Client Side</td>
    </tr>
    <tr align="center">
-        <td colspan="2">Mandatory</td>
-   </tr>
-   <tr align="center">
-    <td></td>
-    <td>On/Off(subject to binding)</td>
+   	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
     <td></td>
     <td>Identify</td>
    </tr>
    <tr align="center">
-        <td colspan="2">Optional</td>
+    <td></td>
+    <td>Window Covering</td>
    </tr>
    <tr align="center">
-   		<td>On/Off Switch Configuration</td>
-   		<td>Scenes </td>
+   	<td colspan="2">Option</td>
    </tr>
    <tr align="center">
-   		<td></td>
-   		<td>Groups</td>
+    <td></td>
+    <td>Groups</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Scenes</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Identify</td>
    </tr>
 </table>

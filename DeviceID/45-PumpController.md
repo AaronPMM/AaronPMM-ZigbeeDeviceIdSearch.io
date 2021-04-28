@@ -1,8 +1,8 @@
-# 第二十二章 Color Dimmable Light
+# 第四十五章 Pump Controller
 
 ## 1、描述
 
-​	  彩色可调光设备可以打开和关闭，并且可以控制其亮度，色相和饱和度级别。
+​	 Pump Controller设备可以配置和控制Pump设备。
 
 ## 2、Supported Cluster
 <table>
@@ -14,28 +14,43 @@
    	<td colspan="2">Mandatory</td>
    </tr>
    <tr align="center">
-    <td>Identify</td>
     <td></td>
+    <td>Pump Configuration and Control</td>
    </tr>
    <tr align="center">
-    <td>Groups</td>
     <td></td>
-   </tr>
-   <tr align="center">
-    <td>Scenes</td>
-    <td></td>
-   </tr>
-   <tr align="center">
     <td>On/Off</td>
-    <td></td>
    </tr>
    <tr align="center">
-    <td>Level control</td>
     <td></td>
+    <td>Identify</td>
    </tr>
    <tr align="center">
-    <td>Color control</td>
+   	<td colspan="2">Mandatory</td>
+   </tr>
+   <tr align="center">
     <td></td>
+    <td>Groups</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Scenes</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Pressure Measurement</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Temperature Measurement</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Flow Measurement</td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td>Level Control</td>
    </tr>
 </table>
 
