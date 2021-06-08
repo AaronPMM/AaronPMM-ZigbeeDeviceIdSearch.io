@@ -38,8 +38,8 @@
 |                        |                      On/Off  Ballast                       |  0x0108   |   0x0104   |
 |                        |                      Dimmable Ballast                      |  0x0109   |   0x0104   |
 |                        |                    Light  Level Sensor                     |  0x010E   |   0x0104   |
-|                        |                    Extended Color Light                    |  0x010D   |   0xC05E   |
-|                        |                   Extended  Color Light                    |  0x0210   |   0x0104   |
+|                        |                    Extended Color Light                    |  0x010D   |   0x0104   |
+|                        |                   Extended  Color Light                    |  0x0210   |   0xC05E   |
 |                        |                  Color Temperature Light                   |  0x0220   |   0xC05E   |
 |                        |                  Color  Temperature Light                  |  0x010C   |   0x0104   |
 |   Controller Device    |                      Color Contriller                      |  0x0800   |   0x0104   |
